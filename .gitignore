@@ -13,3 +13,98 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+
+# Thư mục hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Các tệp hình ảnh hệ điều hành
+*.iml
+.idea/
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Thư mục của Gradle Wrapper
+gradle/wrapper/gradle-wrapper.properties
+
+# Các tệp được tạo tự động bởi IDE
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules.xml
+/.idea/.name
+/.idea/vcs.xml
+/.idea/assetWizardSettings.xml
+/.idea/gradle.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/encodings.xml
+*.iws
+*.iml
+*.ipr
+
+# Tệp cục bộ chứa cấu hình SDK
+local.properties
+
+# Thư mục cục bộ của Android Studio
+captures/
+.externalNativeBuild/
+
+# Tệp APK và các tệp xây dựng khác
+outputs/
+*.apk
+*.ap_
+*.aab
+
+# Các tệp log
+*.log
+
+# Các tệp cache và tệp khác do IDE tạo ra
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/indexLayout.xml
+.idea/vcs.xml
+.idea/httpRequests
+
+# Tệp hệ thống và tệp tạm thời
+tmp/
+*.temp
+*.tmp
+*.bak
+*.swp
+
+# Tệp môi trường cấu hình
+.env
+
+# Thư mục chứa báo cáo kiểm thử và coverage
+/reports/
+/coverage/
+
+# Miscellaneous
+/.settings/
+/gen/
+/out/
+/bin/
+
+# IntelliJ IDEA specific
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Keystore files
+*.jks
+*.keystore
+
+# Java build output
+*.class
+
+# Local configuration file (sdk path, etc)
+local.properties
